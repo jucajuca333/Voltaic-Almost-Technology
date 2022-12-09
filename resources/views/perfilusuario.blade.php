@@ -35,7 +35,7 @@
                         0
                     </div>
                     <div class="downCard">
-                        Não Sei
+                        Serviços
                     </div>
                 </div>
 	        </div>
@@ -46,8 +46,8 @@
             <div class="right-perfil-content">
 
                 {{-- FOTO DE PERFIL --}}
-                <div class="user-perfil-picture">
-                    a
+                <div class="user-perfil-picture" style="text-align: center">
+                    foto do usuário
                 </div>
 
                 {{-- BOTÃO DE MUDAR A FOTO DE PERFIL --}}

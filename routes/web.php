@@ -48,4 +48,4 @@ Route::get('/cadastro','App\Http\Controllers\ControllerUsuario@create');
 
 
 Route::post('/login','App\Http\Controllers\ControllerUsuario@store');
-Route::post('/login','App\Http\Controllers\Controller@efetuaLogin');
+Route::post('/login/efetuaLogin','App\Http\Controllers\ControllerUsuario@efetuaLogin');
